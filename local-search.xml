@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>test</title>
+    <link href="/2022/08/23/test/"/>
+    <url>/2022/08/23/test/</url>
+    
+    <content type="html"><![CDATA[<p>这是一个测试文章。姑且放一张图片测试一下吧:</p><p><img src="1.png" alt="赫敏"></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>测试</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2022/08/22/hello-world/"/>
     <url>/2022/08/22/hello-world/</url>
