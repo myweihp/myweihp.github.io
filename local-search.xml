@@ -4,6 +4,32 @@
   
   
   <entry>
+    <title>test_blog</title>
+    <link href="/2023/06/15/test-blog-1/"/>
+    <url>/2023/06/15/test-blog-1/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>test_blog</title>
+    <link href="/2023/06/15/test-blog/"/>
+    <url>/2023/06/15/test-blog/</url>
+    
+    <content type="html"><![CDATA[<p>这是一份测试用的blog。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2023/06/15/hello-world/"/>
     <url>/2023/06/15/hello-world/</url>
